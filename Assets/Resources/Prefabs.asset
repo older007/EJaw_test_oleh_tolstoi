@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60a456e10cbd223488d4274f241bf826, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  prefabObjects:
+  - prefab: {fileID: 2213239663742396954, guid: 4a744f32793c2164a9243e4aa3022f5e,
+      type: 3}
+    prefabParams:
+      Activate: 0
+      AutoExtend: 1
+      PreWarmCount: 4
+      Count: 0
+      TakeFromPoolCount: 0
+  - prefab: {fileID: 1127231838001770130, guid: fa04488eadf23f24495860b5fd7473f4,
+      type: 3}
+    prefabParams:
+      Activate: 0
+      AutoExtend: 1
+      PreWarmCount: 4
+      Count: 0
+      TakeFromPoolCount: 0
+  - prefab: {fileID: 2487319644632987383, guid: 6cf642718c8a4ba468bd74e88aea1b00,
+      type: 3}
+    prefabParams:
+      Activate: 0
+      AutoExtend: 1
+      PreWarmCount: 4
+      Count: 0
+      TakeFromPoolCount: 0
