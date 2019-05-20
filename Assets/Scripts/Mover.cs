@@ -19,7 +19,7 @@ public class Mover : InitableMonoBehaviour, IMover
 
     private void OnUpdate()
     {
-        if (!CanMove)
+        if (DI.Get<IGameState>() == null || !CanMove)
         {
             return;
         }
